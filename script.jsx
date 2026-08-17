@@ -1,9 +1,5 @@
 const { useState } = React;
 
-/* =========================================================
-   DATA PROFIL
-========================================================= */
-
 const profile = {
   name: "I MADE RISKY JULIARTA",
   initials: "J",
@@ -12,11 +8,6 @@ const profile = {
   email: "riskijuliarta4@gmail.com",
   instagram: "@taa.c_o",
 };
-
-
-/* =========================================================
-   DATA PENGALAMAN
-========================================================= */
 
 const experiences = [
   {
@@ -52,11 +43,6 @@ const experiences = [
       "Memulai perjalanan akademik sebagai mahasiswa Pendidikan Teknik Informatika dan terus mengembangkan kemampuan di bidang teknologi.",
   },
 ];
-
-
-/* =========================================================
-   DATA SKILL
-========================================================= */
 
 const skills = [
   "HTML & CSS",
@@ -292,7 +278,7 @@ function App() {
 
                 <img
                   className="avatar"
-                  src="IMG_20260817_133954_697.jpg-removebg-preview.png"
+                  src="ec60dd10-c389-4e7b-881f-624748831f06-removebg-preview.png"
                   alt="Foto profil I Made Risky Juliarta"
                 />
               </div>
