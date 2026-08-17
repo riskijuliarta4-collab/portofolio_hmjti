@@ -278,7 +278,7 @@ function App() {
 
                 <img
                   className="avatar"
-                  src="d9eda4dc-cea8-4ab8-ae78-bb6888de1cce-removebg-preview"
+                  src="d9eda4dc-cea8-4ab8-ae78-bb6888de1cce-removebg-preview.png"
                   alt="Foto profil I Made Risky Juliarta"
                 />
               </div>
