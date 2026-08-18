@@ -2,7 +2,7 @@ const { useState } = React;
 
 const profile = {
   name: "I MADE RISKY JULIARTA",
-  initials: "J",
+  initials: "Julio",
   role: "Mahasiswa S1 Pendidikan Teknik Informatika",
   campus: "Universitas Pendidikan Ganesha",
   email: "riskijuliarta4@gmail.com",
