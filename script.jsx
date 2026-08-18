@@ -6,6 +6,7 @@ const profile = {
   role: "Mahasiswa S1 Pendidikan Teknik Informatika",
   campus: "Universitas Pendidikan Ganesha",
   email: "riskijuliarta4@gmail.com",
+  NIM: 2615051036,
   instagram: "@taa.c_o",
 };
 
