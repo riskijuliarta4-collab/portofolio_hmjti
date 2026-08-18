@@ -61,7 +61,7 @@ const skills = [
 
 /* =========================================================
    DATA PROJECT
-========================================================= */
+===========================F============================== */
 
 const projects = [
   {
@@ -86,19 +86,10 @@ const projects = [
   },
 ];
 
-
-/* =========================================================
-   COMPONENT UTAMA
-========================================================= */
-
 function App() {
 
   const [menuOpen, setMenuOpen] = useState(false);
 
-
-  /* =======================================================
-     FUNGSI SCROLL
-  ======================================================= */
 
   const scrollTo = (id) => {
 
@@ -113,10 +104,6 @@ function App() {
     setMenuOpen(false);
   };
 
-
-  /* =======================================================
-     MENU NAVBAR
-  ======================================================= */
 
   const menuItems = [
     "home",
@@ -322,6 +309,7 @@ function App() {
                 <p>
                   Saya merupakan mahasiswa S1
                   Pendidikan Teknik Informatika
+                  dengan NIM 2615051036
                   yang memiliki ketertarikan pada
                   dunia teknologi, khususnya
                   pengembangan website, jaringan
