@@ -310,7 +310,7 @@ function App() {
                   Saya merupakan mahasiswa S1
                   Pendidikan Teknik Informatika
                   dengan NIM 2615051036
-                  yang memiliki ketertarikan pada
+                  dan memiliki ketertarikan pada
                   dunia teknologi, khususnya
                   pengembangan website, jaringan
                   komputer, dan keamanan siber.
